@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #161616;
 }
 
 footer .copyright {
@@ -1565,7 +1565,7 @@ footer .credits a {
 }
 
 .v2Title {
-  font-size: 85px;
+  font-size: 82px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
@@ -1660,4 +1660,10 @@ footer .credits a {
 .v2Hero {
   font-size: 75px;
   font-family: cursive;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adjust the margin as needed */
 }
